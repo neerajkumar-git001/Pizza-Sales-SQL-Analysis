@@ -44,6 +44,8 @@ Expected columns:
 - `date`: Date when the order was placed.
 - `time`: Time when the order was placed.
 
+![link](../Pizza-Sales-SQL-Analysis/blob/main/Data/orders.csv)
+
 ### 4.2 order_details.csv
 
 Contains individual order-line information.
