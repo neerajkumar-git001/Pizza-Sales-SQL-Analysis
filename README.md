@@ -78,9 +78,7 @@ Expected columns:
 
 ```text
 Pizza-Sales-SQL-Analysis/
-│
-├── README.md
-│
+
 ├── Data/
 │   ├── orders.csv
 │   ├── order_details.csv
@@ -92,10 +90,13 @@ Pizza-Sales-SQL-Analysis/
 │   └── .gitkeep
 │
 └── SQL Queries/
-    ├── Create Table and Import Data
-    ├── Basic Questions
-    ├── Intermediate Questions
-    └── Advanced Questions
+│    ├── Create Table and Import Data
+│    ├── Basic Questions
+│    ├── Intermediate Questions
+│   └── Advanced Questions
+│
+├── README.md
+│
 ```
 
 The names shown inside `SQL Queries/` are descriptive labels. Use the actual filenames already present in your repository.
